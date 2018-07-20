@@ -18,5 +18,8 @@
   "homepage": "https://github.com/legoflow-override/test#readme",
   "bin": {
     "legoflow-override-test": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }

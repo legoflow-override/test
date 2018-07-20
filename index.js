@@ -1,3 +1,4 @@
 #!/usr/bin/env node
 
-console.log('legoflow override test');
+console.log(require('axios'))
+console.log('>>>>>>>>>> legoflow override test <<<<<<<<<<');
